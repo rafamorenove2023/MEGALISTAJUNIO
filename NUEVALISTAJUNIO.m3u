@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MX: CANAL 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/77a6c741aaea77417a1d6cbc5fcd18c2.png" group-title="Mexico",MX: CANAL 5 HD
+http://76500234525279270.of529.xyz:80/play/fe1015966/3175774144/279270.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: CINECANAL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/3c3bec641194b6d636508a46f57676bd.png" group-title="Mexico",MX: CINECANAL HD
+http://76500234525279272.of529.xyz:80/play/fe1015966/3175774144/279272.ts
+#EXTINF:-1 tvg-id="comedycentralextra.pl" tvg-name="PL: POLSAT COMEDY CENTRAL EXTRA HD" tvg-logo="" group-title="Poland",PL: POLSAT COMEDY CENTRAL EXTRA HD
+http://76500234525427250.of529.xyz:80/play/fe1015966/3175774144/427250.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: H2 HD" tvg-logo="" group-title="Poland",PL: H2 HD
+http://76500234525298596.of529.xyz:80/play/fe1015966/3175774144/298596.ts
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES: SYFY SD" tvg-logo="https://miguia.tv/channels/big_141.png" group-title="ES   MOVISTAR+",ES: SYFY SD
+http://76500234525321424.of529.xyz:80/play/fe1015966/3175774144/321424.ts
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES: TCM FHD" tvg-logo="https://miguia.tv/channels/big_146.png" group-title="ES   MOVISTAR+",ES: TCM FHD
+http://76500234525321425.of529.xyz:80/play/fe1015966/3175774144/321425.ts
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="ES: TCM HD" tvg-logo="https://miguia.tv/channels/big_146.png" group-title="ES   MOVISTAR+",ES: TCM HD
+http://76500234525321426.of529.xyz:80/play/fe1015966/3175774144/321426.ts
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="ES: TCM SD" tvg-logo="https://miguia.tv/channels/big_146.png" group-title="ES   MOVISTAR+",ES: TCM SD
+http://76500234525321427.of529.xyz:80/play/fe1015966/3175774144/321427.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELESAFOR HD" tvg-logo="" group-title="ES   MOVISTAR+",ES: TELESAFOR HD
+http://76500234525321437.of529.xyz:80/play/fe1015966/3175774144/321437.ts
+#EXTINF:-1 tvg-id="TNT FHD" tvg-name="ES: TNT FHD" tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_1_76CB_40E_1_C00000_0_0_0.png" group-title="ES   MOVISTAR+",ES: TNT FHD
+http://76500234525321442.of529.xyz:80/play/fe1015966/3175774144/321442.ts
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="ES: TNT HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c64a02fc01a7b20056e5829979cf5503.png" group-title="ES   MOVISTAR+",ES: TNT HD
+http://76500234525321443.of529.xyz:80/play/fe1015966/3175774144/321443.ts
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES: TNT SD" tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_1_76CB_40E_1_C00000_0_0_0.png" group-title="ES   MOVISTAR+",ES: TNT SD
+http://76500234525321444.of529.xyz:80/play/fe1015966/3175774144/321444.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNIVERSAL CINEMA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/9ce3ad4fe0deeba87d3a7583381436e4.png" group-title="Latino",LA: UNIVERSAL CINEMA HD
+http://76500234525498655.of529.xyz:80/play/fe1015966/3175774144/498655.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNIVERSAL REALITY HD" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/2e67a715926cb3b55108e791a1209c36.png" group-title="Latino",LA: UNIVERSAL REALITY HD
+http://76500234525498656.of529.xyz:80/play/fe1015966/3175774144/498656.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO FAMILY HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/43407a8cf87ba9025bd127cd0f7a70c1.png" group-title="Argentina",ARG: HBO FAMILY HD
+http://76500234525314227.of529.xyz:80/play/fe1015966/3175774144/314227.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/da711ff83b86da2308582305d76497b0.png" group-title="Argentina",ARG: HBO HD
+http://76500234525314228.of529.xyz:80/play/fe1015966/3175774144/314228.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO MUNDI SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/da07317e9ea0404617a799765f151c31.png" group-title="Latino",LA: HBO MUNDI SD
+http://76500234525463400.of529.xyz:80/play/fe1015966/3175774144/463400.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO SIGNATURE FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/565affd407eda3b8d7f7055d62a8461f.png" group-title="Latino",LA: HBO SIGNATURE FHD
+http://76500234525463402.of529.xyz:80/play/fe1015966/3175774144/463402.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO XTREME SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/ac32c2f03f910fd6359c90e0436cebef.png" group-title="Latino",LA: HBO XTREME SD
+http://76500234525463403.of529.xyz:80/play/fe1015966/3175774144/463403.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO+ SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cf9a927cee9c2258c2a735e42a940ebc.png" group-title="Latino",LA: HBO+ SD
+http://76500234525463404.of529.xyz:80/play/fe1015966/3175774144/463404.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: USA: UNIVISION HD" tvg-logo="" group-title="USA",US: USA: UNIVISION HD
+http://76500234525498192.of529.xyz:80/play/fe1015966/3175774144/498192.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: USA: UNIVISION WXTV HD" tvg-logo="" group-title="USA",US: USA: UNIVISION WXTV HD
+http://76500234525503258.of529.xyz:80/play/fe1015966/3175774144/503258.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: UNIVISION TLNOVELAS SD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/25e49e001349cf074bd0a3206f0a2605.png" group-title="Mexico",MX: UNIVISION TLNOVELAS SD
+http://76500234525457698.of529.xyz:80/play/fe1015966/3175774144/457698.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNIMAS NEWARK NEW JERSEY WFUT TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/8beb5fecdbe7cf722554c610e1631b53.png" group-title="Latino",LA: UNIMAS NEWARK NEW JERSEY WFUT TV HD
+http://76500234525498653.of529.xyz:80/play/fe1015966/3175774144/498653.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNIMAS FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/82efa03f500c5297dec84b49876c9248.png" group-title="Latino",LA: UNIMAS FHD
+http://76500234525498654.of529.xyz:80/play/fe1015966/3175774144/498654.ts
+NAT GEO WILD SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5f2dbbe8d8a29a698d9aaed52654847b.png" group-title="Colombia",CO: NAT GEO WILD SD
+http://76500234525314306.of529.xyz:80/play/fe1015966/3175774144/314306.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: CNN EN ESPANOL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ed51eda47ce082e6ab48b65848b7bc2c.png" group-title="Mexico",MX: CNN EN ESPANOL HD
+http://76500234525244669.of529.xyz:80/play/fe1015966/3175774144/244669.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: COMEDY CENTRAL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9f09982c9fc7f833cb4f14c6f1e0e8f4.png" group-title="Mexico",MX: COMEDY CENTRAL HD
+http://76500234525244673.of529.xyz:80/play/fe1015966/3175774144/244673.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: DE PELICULA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0c7cbb69876963d368d6d8249aef2409.png" group-title="Mexico",MX: DE PELICULA HD
+http://76500234525244675.of529.xyz:80/play/fe1015966/3175774144/244675.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: LAS ESTRELLAS FHD" tvg-logo="" group-title="Latino",LA: LAS ESTRELLAS FHD
+http://76500234525503810.of529.xyz:80/play/fe1015966/3175774144/503810.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: TLNOVELAS HEVC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a5aab5cf9b5929219698bc9486baa80c.png" group-title="Mexico",MX: TLNOVELAS HEVC
+http://76500234525291227.of529.xyz:80/play/fe1015966/3175774144/291227.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: AZ CINEMA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dae89e688e6ba755b1e478acffb54190.png" group-title="Mexico",MX: AZ CINEMA HD
+http://76500234525244636.of529.xyz:80/play/fe1015966/3175774144/244636.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: AZTECA UNO HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/40ffc9b6f229e4f18593b68daeb65d87.png" group-title="Mexico",MX: AZTECA UNO HD
+http://76500234525244639.of529.xyz:80/play/fe1015966/3175774144/244639.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: AZTECA 7 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/72ffa19b20708ee5d84c6f01c202ba9a.png" group-title="Mexico",MX: AZTECA 7 HD
+http://76500234525279267.of529.xyz:80/play/fe1015966/3175774144/279267.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: NOTICIAS CARACOL SD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/14bae3515e7cd24ac50f002f3acb88bf.png" group-title="Colombia",CO: NOTICIAS CARACOL SD
+http://76500234525314307.of529.xyz:80/play/fe1015966/3175774144/314307.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: NTN 24 SD" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8744ae7d7c869ee90034d009a14a93d7.png" group-title="Colombia",CO: NTN 24 SD
+http://76500234525314308.of529.xyz:80/play/fe1015966/3175774144/314308.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN 2 SD" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b549ab745a0e4964c075c31f972ca9ee.svg" group-title="Colombia",CO: RCN 2 SD
+http://76500234525314309.of529.xyz:80/play/fe1015966/3175774144/314309.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN INT SD" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/379fc013401107e46c6e285ebcdc855d.svg" group-title="Colombia",CO: RCN INT SD
+http://76500234525314310.of529.xyz:80/play/fe1015966/3175774144/314310.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN NOVELAS SD" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/cec95a04f1d1d54bc584cf489969dc82.png" group-title="Colombia",CO: RCN NOVELAS SD
+http://76500234525314311.of529.xyz:80/play/fe1015966/3175774144/314311.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: SENAL COLOMBIA SD" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/2a4db054ee15d8a8ff5da88e64783a43.png" group-title="Colombia",CO: SENAL COLOMBIA SD
+http://76500234525314312.of529.xyz:80/play/fe1015966/3175774144/314312.ts
+ CARACOL TV INTERNACIONAL FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/5142ec2a66d8ba1e1481bbedc5eacae0.png" group-title="Colombia",CO: CARACOL TV INTERNACIONAL FHD
+http://76500234525451742.of529.xyz:80/play/fe1015966/3175774144/451742.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: DIRECTV SPORTS 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/babfe53c877880e30d1ec7b3f84a6381.png" group-title="Colombia",CO: DIRECTV SPORTS 2 HD
+http://76500234525496055.of529.xyz:80/play/fe1015966/3175774144/496055.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: DIRECTV SPORTS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/507676386b99ab10d091cf0333f73064.png" group-title="Colombia",CO: DIRECTV SPORTS HD
+http://76500234525470759.of529.xyz:80/play/fe1015966/3175774144/470759.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0d513d16eccae18d3668ac09a6dc3613.jpg" group-title="Colombia",CO: ESPN 4 HD
+http://76500234525502233.of529.xyz:80/play/fe1015966/3175774144/502233.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0d513d16eccae18d3668ac09a6dc3613.jpg" group-title="Colombia",CO: ESPN 4 HD
+http://76500234525502233.of529.xyz:80/play/fe1015966/3175774144/502233.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: FOX SPORTS 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/09de17372d8e4c1d5fc538521e1e5434.png" group-title="Colombia",CO: FOX SPORTS 3 FHD
+http://76500234525502234.of529.xyz:80/play/fe1015966/3175774144/502234.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN DOS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/669589f86e5d9edc472f75011f9c1055.png" group-title="Mexico",MX: ESPN DOS HD
+http://76500234525244697.of529.xyz:80/play/fe1015966/3175774144/244697.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5d65be98111905704b0ebcd7d06e3bd.png" group-title="Mexico",MX: ESPN 3 HD
+http://76500234525244698.of529.xyz:80/play/fe1015966/3175774144/244698.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fef20f5cb1951c51371fc68e1eb0a32c.png" group-title="Mexico",MX: ESPN HD
+http://76500234525244700.of529.xyz:80/play/fe1015966/3175774144/244700.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: CUIDADO CON EL ÁNGEL VIX+ SD" tvg-logo="" group-title="Latino",LA: CUIDADO CON EL ÁNGEL VIX+ SD
+http://76500234525498200.of529.xyz:80/play/fe1015966/3175774144/498200.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: EL PRIVILEGIO DE AMAR VIX+ SD" tvg-logo="" group-title="Latino",LA: EL PRIVILEGIO DE AMAR VIX+ SD
+http://76500234525498202.of529.xyz:80/play/fe1015966/3175774144/498202.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: FAMILIA PELUCHE VIX+ SD" tvg-logo="" group-title="Latino",LA: FAMILIA PELUCHE VIX+ SD
+http://76500234525498203.of529.xyz:80/play/fe1015966/3175774144/498203.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="Germany VIP",DE: DISCOVERY CHANNEL FHD
+http://76500234525478442.of529.xyz:80/play/fe1015966/3175774144/478442.ts
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE: DISCOVERY FHD" tvg-logo="" group-title="Germany VIP",DE: DISCOVERY FHD
+http://76500234525478443.of529.xyz:80/play/fe1015966/3175774144/478443.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: NICKELODEON FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ffe70df63cfe2611a5b1b5fa96984394.png" group-title="Mexico",MX: NICKELODEON FHD
+http://76500234525279327.of529.xyz:80/play/fe1015966/3175774144/279327.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: ANTENA 3 INTERNACIONAL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a963b3d472ac871390c313a1e1c34871.png" group-title="Mexico",MX: ANTENA 3 INTERNACIONAL HD
+http://76500234525280102.of529.xyz:80/play/fe1015966/3175774144/280102.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: STAR CHANNEL FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/229b1dcec790fc438218d1dfeade4e45.png" group-title="Mexico",MX: STAR CHANNEL FHD
+http://76500234525280106.of529.xyz:80/play/fe1015966/3175774144/280106.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: TCM SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1b950d84f4cca742c18c7b61128e44d7.png" group-title="Mexico",MX: TCM SD
+http://76500234525268649.of529.xyz:80/play/fe1015966/3175774144/268649.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: AZTECA MUNDO SD" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/8c220759e557962b2d70e13f9dbf3a47.png" group-title="Mexico",MX: AZTECA MUNDO SD
+http://76500234525469305.of529.xyz:80/play/fe1015966/3175774144/469305.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AXN SD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9cfe9b91c3d1459beb3eca90f11a11d3.png" group-title="Argentina",ARG: AXN SD
+http://76500234525314168.of529.xyz:80/play/fe1015966/3175774144/314168.ts
